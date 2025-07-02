@@ -1,0 +1,62 @@
+"id","user_id","street","city","postal_code","country","created_at"
+"2","2","sgssh",,"5747566","rrhd","2025-06-27 21:55:10"
+"id","user_id","product_id","quantity","created_at"
+"8","2","17","1","2025-07-02 15:33:30"
+"id","name"
+"2","Care"
+"1","Plants"
+"3","Pots"
+"id","user_id","address_id","total_price","status","created_at","cancellation_reason"
+"2","2","2","267.00","pending","2025-06-27 21:55:10",NULL
+"id","order_id","product_id","quantity","price"
+"2","2","6","3","89.00"
+"id","order_id","payment_method","payment_status","created_at","user_id"
+"2","2","cash","pending","2025-06-27 21:55:10","2"
+"id","name","description","price","image","category_id","category","is_removed"
+"2","Liquid Plant Food","Our premium organic-based formula gives your plants the immediate nutrients required to thrive. Every drop restores lifeless potting mix, producing stronger and healthier foliage. Suitable for: Indoor and outdoor plants, natives, shrubs, flowers, palms, fruit trees, vegetables and herbs, seedlings (lower rate). An all-around all-purpose fertiliser. Benefits Directions Add 2-4ml per litre of water and apply every 2-4 weeks. For delicate plants, use at a lower rate.","39.00","[""img_685ea70450d531.08134951.jpg""]",NULL,"Care","0"
+"3","Drugs For Plants Organic Fertilizer Powder ","Drugs for Plants is an organic fertilizer formulated by a team of horticulturalists who have been making fertilizer for over 20 years. We made Drugs for Plants because we were tired of seeing the overwhelming market leader (you know who we're talking about) peddle synthetic fertilizer that is bad for the environment. Everything we do is made to be the opposite of that.","24.00","[""img_685ea7adebb542.25864861.jpg""]",NULL,"Care","0"
+"4","Ceramic Plant Pots","Green Pot, a beautiful and modern addition to any plant lover’s collection. With its sleek and minimalist design, this pot features a soft, matte green finish that perfectly complements bold and subtle plant foliage. Crafted from high-quality ceramic, the Green Pot is not only stylish but also durable, making it suitable for indoor use. ","63.00","[""img_685ea800024ed5.57612961.jpg""]",NULL,"Pots","0"
+"5","Madagascar lace plant","Delicate, elegant, and rare — the Madagascar Lace Plant is a true statement piece. Its lacy, translucent leaves bring a sense of calm and uniqueness to any indoor setting. Best suited for aquariums or high-humidity environments, this plant thrives with minimal effort and offers exceptional beauty year-round.","48.00","[""img_685ea85e220400.94694968.jpg""]",NULL,"Plants","0"
+"6","Homegrown Mushrooms","Grow your own gourmet mushrooms — right from your kitchen shelf.
+This easy-to-use kit lets you cultivate delicious, organic fungi with no mess and no gardening experience needed. Just mist, wait, and harvest. Whether you’re a curious beginner or a foodie at heart, our mushroom box brings nature’s magic indoors.","89.00","[""img_685ea8b1274c53.81415322.jpg""]",NULL,"Plants","0"
+"7","Ash Tone Pot","A timeless essential for every plant.
+Crafted from high-quality ceramic with a smooth matte finish, this grey planter adds quiet elegance to any space. Neutral, minimalist, and versatile — it’s designed to complement both bold foliage and delicate greens. Includes drainage hole for healthy roots.","59.00","[""img_685ea9365e2519.72146322.jpg""]",NULL,"Pots","0"
+"8","Blossom White Ceramic Pot","This white ceramic planter features delicate floral illustrations that bring a gentle, handcrafted feel to any corner of your home. Light, airy, and artistically detailed — it’s perfect for adding personality to your favorite plant. Includes drainage hole for easy care.","63.00","[""img_685ea97b23a0f1.34551366.jpg""]",NULL,"Pots","0"
+"9","inLeaf Essentials Box","Everything you need to care, plant, and grow — all in one box.
+This thoughtfully assembled kit includes essential tools for indoor gardening: hand trowel, rake, spray bottle, gloves, and more. Whether you’re repotting, pruning, or simply giving your plants some extra love, this set keeps everything neat, easy, and within reach.","120.00","[""img_685ea9c48bef98.38450524.jpg""]",NULL,"Care","0"
+"10","Organic Potting Soil ","The foundation for healthy growth.
+This 1kg pack of nutrient-rich, organic potting soil is carefully blended for indoor plants. It provides optimal drainage, aeration, and moisture balance — so your green friends can thrive from root to leaf.","67.00","[""img_685eab01b719e2.58244976.jpg""]",NULL,"Care","0"
+"11","Kokedama Kit","Our Kokedama Kit includes everything you need to craft your own Japanese moss ball — a timeless fusion of plant and sculpture. Thoughtfully packed with soil, moss, twine, and simple instructions, this kit makes a perfect gift or meditative weekend project.","80.00","[""img_685eab60152f65.17926114.jpg""]",NULL,"Plants","0"
+"12","Mini Lawn Square","A little patch of calm.
+This miniature lawn brings a playful touch of nature to any desk, shelf, or windowsill. No planting required — just mist and enjoy the soft, living green. Makes a fun and unexpected gift for plant lovers, city dwellers, or anyone who needs a daily dose of green.","84.00","[""img_685eaba4769a69.22392449.jpg""]",NULL,"Plants","0"
+"13","Mosser – Desktop Moss Garden","A tiny world of quiet green.
+Mosser is a hand-grown patch of live moss in a minimalist container — made to bring calm, softness, and nature to your everyday space. No watering schedules, no fuss — just mist occasionally and enjoy.
+It’s a perfect gift for mindful souls, nature lovers, or anyone in need of a little desktop escape.","42.00","[""img_685ead4acd1016.10211224.jpg""]",NULL,"Plants","0"
+"14","Classic Monstera","Bold, iconic, and always in style.
+Monstera Deliciosa is the ultimate statement plant — known for its large, split leaves and tropical feel. Easy to care for and fast-growing, it brings instant atmosphere to any space. Place it in bright, indirect light and let the jungle vibes take over.
+
+A perfect gift for plant lovers or a stylish upgrade for your home.","130.00","[""img_685ead8a818154.74748401.jpg""]",NULL,"Plants","0"
+"15","Monstera Adansonii – Swiss Cheese Vine","Delicate vines. Iconic holes. Pure jungle magic.
+Monstera Adansonii — also known as the Swiss Cheese Vine — is a tropical beauty with fenestrated leaves and a trailing habit. Perfect for shelves, hanging planters, or letting it climb, this plant adds soft movement and bold texture to any space.
+
+Low-maintenance and fast-growing, it’s a favorite among modern plant lovers — and a conversation piece in every home.","115.00","[""img_685eadd03d2271.13740982.jpg""]",NULL,"Plants","0"
+"16","Jade Plant – Crassula Ovata","Small leaves. Big energy.
+Jade Plant (Crassula Ovata) is a timeless succulent known for its plump, glossy leaves and effortless charm. It’s not only beautiful — it’s symbolic, too. Often called the money plant, it’s believed to bring prosperity, balance, and calm energy to your space.
+
+Place in bright light, water sparingly, and enjoy its slow, steady growth — a reminder that good things take time.","86.00","[""img_685eae074c54a7.27721548.jpg""]",NULL,"Plants","0"
+"17","Strelitzia – Bird of Paradise","Big leaves. Bold statement.
+Strelitzia, also known as Bird of Paradise, is a tropical showstopper with broad, banana-like leaves that bring instant drama and elevation to any space. It thrives in bright light and loves room to grow — perfect for spacious corners and interiors with natural light.
+
+Lush, sculptural, and full of presence, it’s not just a plant — it’s living architecture.","146.00","[""img_685eaf3f3d9543.26007304.jpg""]",NULL,"Plants","0"
+"18","Mermaid Tail Cactus","Rare. Wavy. Wonderfully weird.
+The Mermaid Tail Cactus is a crested variety of Senecio vitalis, shaped like a fan or a mythical tail rising from the soil. With its rippling edges and soft blue-green hue, it feels more like a living sculpture than a plant.
+
+It’s low-maintenance, drought-tolerant, and guaranteed to spark curiosity — making it a perfect gift or collector’s centerpiece.","89.00","[""img_685eaf97ce9b96.87173369.jpg""]",NULL,"Plants","0"
+"id","user_id","product_id","rating","comment","created_at"
+"id","username","email","password","avatar","is_admin","created_at","is_blocked"
+"2","adinai","adinaiexapmle@gmail.com","$2y$10$o9zE6Zhy.fACCtc0QuxkZOUetUXFri8RON4KB/hX8TmVUqqVBehVW",NULL,"1","2025-06-27 18:51:16","0"
+"3","milena","milena@gmail.com","$2y$10$tAwiEd/WVz20e41tjlCHM.4DHi/uLSpCUVCETgaMPk6g7ZEJvpfmO",NULL,"1","2025-07-02 21:02:36","0"
+"id","user_id","product_id","created_at"
+"4","2","6","2025-06-27 21:54:22"
+"5","2","11","2025-06-27 21:54:24"
+"6","2","18","2025-07-02 15:32:09"
